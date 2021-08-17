@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sathishselvam_" target="blank"><img src="https://img.shields.io/twitter/follow/sathishselvam_?logo=twitter&style=for-the-badge" alt="sathishselvam_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [sathishselvam.com](sathishselvam.com)
+- 👨‍💻 All of my projects are available at [sathishselvam.com](www.sathishselvam.com)
 
 - 📫 How to reach me **sathishselvamdev@gmail.com**
 
@@ -26,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathish-selvam&show_icons=true&locale=en&layout=compact" alt="sathish-selvam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathish-selvam&show_icons=true&locale=en" alt="sathish-selvam" /></p>
-
