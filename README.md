@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sathishselvam_" target="blank"><img src="https://img.shields.io/twitter/follow/sathishselvam_?logo=twitter&style=for-the-badge" alt="sathishselvam_" /></a> </p>
 
-- 👨‍💻 &nbsp; All of my projects are available at [sathishselvam.com](https://www.sathishselvam.com)
+- 👨‍💻 &nbsp; Get Know more about me on my Portfolio site [sathish porfolio](https://www.sathish.dev)
 
-- 📫  &nbsp; How to reach me **sathishselvamdev@gmail.com**
+- 📫  &nbsp; How to reach me **mail@sathish.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
